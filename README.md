@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1> Hey! I'm Vinicius Soares and I'm learning to be a dev! </h1>
-  <p> Estudo desenvolvimento na Serratec </p>
+  <p> echo Hello, world! </p>
 </div>
 
 <div align="center">
