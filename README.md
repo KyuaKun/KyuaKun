@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h1> Hey! I'm Vinicius Soares and I'm learning to be a dev! </h1>
+  <h1> Hey! I'm Vinicius Soares and i'm learning to be a software engineer! </h1>
   <p> echo Hello, world! </p>
 </div>
 
